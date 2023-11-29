@@ -7,6 +7,9 @@ package kordinat54;
 /**
  *
  * @author User
+ * Nama : Bintang Fajar Nusantara
+ * Nim : 22205028
+ * Prodi : Teknik Informatika
  */
 public class Kordinat54 {
 
